@@ -1,0 +1,35 @@
+
+.fa-instagram:hover{
+    color:rgb(151, 29, 29);
+    
+}
+.fa-instagram{
+    font-size: 1
+    50 px;
+}
+.InstNickname{
+    font-size: 16px;
+}
+.page{
+    width:90%;
+    height: auto;
+    overflow: auto;
+}
+.ten {
+    width:40%; 
+    float: left;
+
+}
+.exp{
+    font-size: small;
+}
+.six{
+    width:50%;
+    float:left;
+    padding-left: 10%;
+}
+.avatar-wrapper{
+    width:145%;
+    margin-left: -25%;
+    margin-top: 10%;
+}
