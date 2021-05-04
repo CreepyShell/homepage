@@ -10,3 +10,22 @@
 .InstNickname{
     font-size: 16px;
 }
+.ten {
+    width:50%;
+    
+}
+.page{
+    position: relative;
+}
+.six{
+    /*margin-left: 50%;
+    margin-top:-50%;
+    position: absolute;*/
+    width:40%;
+}
+.avatar-wrapper{
+    width:150%;
+    margin-left: -25%;
+    margin-top: 10%;
+>>>>>>> Stashed changes
+}
